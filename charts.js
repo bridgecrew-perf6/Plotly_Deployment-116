@@ -148,7 +148,7 @@ function buildCharts(sample) {
       titlefont: {"size": 25},
       hovermode: "closest",
       height: 600,
-      width: 1300
+      width: 1100
       };
   
     // 3. Use Plotly to plot the data with the layout.
